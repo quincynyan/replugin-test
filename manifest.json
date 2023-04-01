@@ -1,5 +1,5 @@
 {
-  "id": "dev.replugged.PluginTemplate",
+  "id": "fun.nekonyan.RepluginTest",
   "name": "Plugin Template",
   "description": "A plugin template",
   "author": {
@@ -10,7 +10,7 @@
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "quincynyan/replugin-test"
   },
   "license": "MIT",
   "type": "replugged-plugin",
