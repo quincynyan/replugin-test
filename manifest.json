@@ -1,11 +1,11 @@
 {
   "id": "fun.nekonyan.RepluginTest",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "name": "Replugin Test",
+  "description": "A Test Replugin",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "QuincyNyan",
+    "discordID": "920239961087807549",
+    "github": "quincynyan"
   },
   "version": "1.0.0",
   "updater": {
